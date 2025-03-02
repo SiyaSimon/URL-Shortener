@@ -1,5 +1,5 @@
 ```md
-# 🚀 URL Shortener Service  
+#  URL Shortener Service  
 
 A simple URL shortening service built with **Node.js, Express, and TypeScript**.  
 
