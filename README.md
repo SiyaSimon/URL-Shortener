@@ -81,6 +81,4 @@ This will run unit tests using Jest.
   BASE_URL=http://short.est/
   ```
   
----
-```
 
